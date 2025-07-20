@@ -83,3 +83,9 @@ trades/
 backups/
 *.db
 *.sqlite
+
+# SSH keys and secrets
+*.pem
+*.key
+id_rsa*
+*.pub
